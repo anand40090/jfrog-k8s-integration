@@ -132,6 +132,12 @@ status: {}
 ```
 ![image](https://github.com/anand40090/jfrog-k8s-integration/assets/32446706/64281155-bdc0-4a0f-a132-7bc39eb0dd65)
 
+### Useful Links 
+- [For Docker](https://docs.docker.com)
+- [For JF cli](https://jfrog.com/help/r/jfrog-cli/jfrog-cli-plugins)
+- [JF cli cheat sheet](https://media.jfrog.com/wp-content/uploads/2021/03/30185137/JFrogCLICheatSheet.pdf)
+- [Kubernetes Secrets: How to Create, Use, and Manage Secrets in Kubernetes](https://www.youtube.com/watch?v=zi_8gccSsig&list=PLY63ZQr2Y5BHkJJhwPjJuJ41CIyv3m7Ru&index=23)
+
 
     
   
