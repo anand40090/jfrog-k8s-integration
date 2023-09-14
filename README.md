@@ -137,6 +137,8 @@ status: {}
 - [For JF cli](https://jfrog.com/help/r/jfrog-cli/jfrog-cli-plugins)
 - [JF cli cheat sheet](https://media.jfrog.com/wp-content/uploads/2021/03/30185137/JFrogCLICheatSheet.pdf)
 - [Kubernetes Secrets: How to Create, Use, and Manage Secrets in Kubernetes](https://www.youtube.com/watch?v=zi_8gccSsig&list=PLY63ZQr2Y5BHkJJhwPjJuJ41CIyv3m7Ru&index=23)
+- [Security with Istio: Using Authorization Policies](https://youtu.be/no9kg4vzXUo?si=y6mmml2b1FbLxizf)
+- [Basic Example of Spring Boot Microservice using Istio as Service Mesh](https://arupmishra91.medium.com/basic-example-of-spring-boot-microservice-using-istio-as-service-mesh-673073dcab07)
 
 
     
